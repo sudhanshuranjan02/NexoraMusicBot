@@ -86,7 +86,7 @@ admin_39 : "👎 Removed 1 upvote."
 admin_40 : "👍 Upvoted."
 
 start_1 : "{0} is active. 🟢\n\n<b>✫ Uptime:</b> {1}"
-start_2 : "<u>Hello {0}!</u>\n\n<u>I'm {1}, your new music companion.</u>\n\n<u>🎧 Ready to dive into some tunes?</u>\n➜ I'm a powerful and efficient Telegram music player bot with some amazing features. Let’s make your day melodious!\n\n<u>❓ Need help figuring out how to use me?</u>\n➜ Simply click on the Help and Commands button to get all the info about my modules and commands."
+start_2 : "<u>🎵 Hey {0}!</u>\n\nWelcome to <u>{1}</u>, your ultimate music buddy! 🎧 ✨\n\n<b>Discover the Rhythm:</b>\n➜ I’m here to bring the beats to your chats and elevate your music experience to a whole new level! From groovy playlists to instant song requests, I’ve got it all. 🛠️\n\n<b>How to Jam?</b>\n➜ Tap the <b>Help and Commands</b> button below to explore my features and commands. Use <b>/language</b> to set your preferred language and enjoy music your way. 🎶"
 start_3 : "Hey {0},\nThis is {1}\n\nThanks for adding me to {2}, {3} can now play songs in this chat. 🎶"
 start_4 : "🎄 <b>SuperGroup Needed</b> 🎄\n\nPlease convert your <b>Group</b> to a <b>SuperGroup</b> and then add me again.\n\n<b>How to make a SuperGroup?</b>\n- Make your group’s chat history <b>Visible</b> once."
 start_5 : "<b>↝ Blacklisted Chats ↜</b>\n\nThis chat is blacklisted on the {0} database.\nRequest a <a href:{1}>SudoUser</a> to unblacklist your chat or visit the <a href:{2}>Support Chat.</a>"
